@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
+
+¯\\\_(ツ)_/¯
 <!--
 ## What's up, Doc? 🐰
 -->
@@ -12,4 +14,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-![Screenshot from 2024-06-03 02-00-23](https://github.com/FuneralSuits18/FuneralSuits18/assets/50417827/52b807f6-d784-4257-bbd3-079807897090)
+<!-- ![tom](https://github.com/FuneralSuits18/FuneralSuits18/assets/50417827/52b807f6-d784-4257-bbd3-079807897090) -->
